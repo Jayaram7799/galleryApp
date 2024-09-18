@@ -1,0 +1,15 @@
+/* Write your code here. */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 300px;
+  margin-top: 50px;
+}
+.thumbnails-list {
+  display: flex;
+  column-gap: 25px;
+}
